@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PAyomide
+- 👋 Hi, I’m Precious Ayomide Olaleye
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Web Design and Development
 - 💞️ I’m looking to collaborate on projects and internships
